@@ -10,7 +10,7 @@ function HeaderComponent() {
                 <Link to="/job" className="btn btn-color text-dark me-2">Form</Link>
                 <Link to="/display" className="btn btn-color text-dark me-2">jobs</Link>
                 <Link to="/about" className="btn btn-color text-dark me-2">About Us</Link>
-                    
+                <Link to="/userdashboard" className="btn btn-color text-dark me-2">UserDashboard</Link>
                     <form className="d-flex" role="search">
                         <input 
                             className="form-control me-2" 
